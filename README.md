@@ -1,5 +1,5 @@
-# FatBird
-Unity pet game project. 3D Flappy Bird
+# AirPlane
+Unity pet game project.
 # Get it
 You can get it in [Google Play Market](https://play.google.com/store/apps/details?id=com.Fedechka.AirPlane)
 
